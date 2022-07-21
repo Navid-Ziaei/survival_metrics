@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: survival-metrics
+Version: 0.1
+Summary: Metrics for evaluating survival analysis models
+Home-page: http://github.com/Navid-Ziaei/survival_metrics
+Author: Navid Ziaei
+Author-email: n2ziaee@gmail.com
+License: MIT
+Platform: UNKNOWN
+License-File: LICENSE
+
+Survival Metrics
+--------
+
+To use (with caution), simply do::
+
+    >>> import survival_metrics
+
+
